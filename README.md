@@ -2,8 +2,7 @@
 # Etch-a-Sketch
 
 A browser-based Etch-a-Sketch built as part of [The Odin Project](https://www.theodinproject.com/)
-Live demo:huma542/Etch--a--sketch.git
-
+Live demo: https://huma542.github.io/Etch--a--sketch/
 Draw, hover, and erase on a dynamic grid. Think of it as the digital version of the classic toy.
 
 ## ✨ Features
